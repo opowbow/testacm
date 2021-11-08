@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 helmCharts:
-- name: cert-manager
+- name: cert-manager-2
   repo: https://charts.jetstack.io
   version: v1.5.3
   releaseName: my-cert-manager
