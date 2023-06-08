@@ -16,4 +16,4 @@ helmCharts:
   repo: https://charts.jetstack.io
   version: v1.5.3
   releaseName: olive-cert-manager
-  namespace: olive
+  namespace: power
